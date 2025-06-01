@@ -22,10 +22,6 @@ NumPy
 Getting Started:
 Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/face-recognition.git
 Install dependencies:
 
 nginx
