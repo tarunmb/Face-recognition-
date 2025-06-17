@@ -28,10 +28,3 @@ This project demonstrates a simple yet effective **Face Recognition** system imp
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/face-recognition-attendance.git
-cd face-recognition-attendance
